@@ -1,5 +1,11 @@
 # @langchain/core
 
+## 1.1.25
+
+### Patch Changes
+
+- [#10002](https://github.com/langchain-ai/langchainjs/pull/10002) [`27186c5`](https://github.com/langchain-ai/langchainjs/commit/27186c54884cfe7c2522fa50b42c3ca0ccaefdba) Thanks [@aditya-gg04](https://github.com/aditya-gg04)! - fix(core): support reasoning/thinking blocks in StringOutputParser
+
 ## 1.1.24
 
 ### Patch Changes
